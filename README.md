@@ -8,6 +8,8 @@ Sample website with plenty of files for demos
 
 ### Part 1
 
+Part 1 has been changed.
+
 ### Part 2
 
 ### Part 3
