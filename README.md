@@ -12,4 +12,10 @@ Part 1 has been changed.
 
 ### Part 2
 
+Part 2 has been changed.
+
 ### Part 3
+
+# Copyright
+
+Copyright notice
