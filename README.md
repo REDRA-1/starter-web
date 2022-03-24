@@ -9,7 +9,7 @@ Sample website with plenty of files for demos
 # Part 1
 
 Part 1 has been changed.
-Adding a line for rebasing.
+Adding a line for rebasing. Adding more changes for feature.
 
 # Part 2
 
